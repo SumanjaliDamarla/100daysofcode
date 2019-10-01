@@ -3,9 +3,12 @@
 T = int(input())
 is_happy = []
 
+def getListElements():
+    return list(map(int, input().split()))
+
 def zooIsHappy(available_candies):
-    candies_needed = sum(list(map(int,input().split())))
-    return "Yes" if available_candies >= candies_needed else "No"
+    required_candies = sum(getListElements())
+    return "Yes" if available_candies >= required_candies else "No"
 
 for i in range(T):
     elephant_count, available_candies = map(int, input().split())
