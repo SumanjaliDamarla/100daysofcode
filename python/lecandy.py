@@ -3,11 +3,11 @@
 T = int(input())
 is_happy = []
 
-def getListElements():
+def candiesForEachElephant():
     return list(map(int, input().split()))
 
 def zooIsHappy(available_candies):
-    required_candies = sum(getListElements())
+    required_candies = sum(candiesForEachElephant())
     return "Yes" if available_candies >= required_candies else "No"
 
 for i in range(T):
