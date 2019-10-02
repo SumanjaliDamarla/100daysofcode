@@ -8,11 +8,11 @@ def candiesForEachElephant():
 
 def zooIsHappy(available_candies):
     required_candies = sum(candiesForEachElephant())
-    return "Yes" if available_candies >= required_candies else "No"
+    return available_candies >= required_candies
 
 for i in range(T):
     elephant_count, available_candies = map(int, input().split())
-    is_happy.append(zooIsHappy(available_candies))
+    is_happy.append("Yes") if zooIsHappy(available_candies) else is_happy.append("No")
 
 for element in is_happy:
     print(element)
