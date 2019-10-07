@@ -1,4 +1,4 @@
-# Day-1 : CodeChef DSA problems - Arrays (in Java and Python)
+# Day-0 : CodeChef DSA problems - Arrays (in Java and Python)
 * [LECANDY](https://www.codechef.com/problems/LECANDY): Little Elephant and Candies
   * Started using terminal for git and vim editor
   * Basics brushed up
@@ -15,3 +15,6 @@
 * [COPS](https://www.codechef.com/problems/COPS): Cops and the Thief Devu
   * Completion of arrays and start new excercise or practice problems in new language
   * to write code according to the language and make it readable
+# Day-5, 6:
+  * Lot of struggle with git and linux terminal to undo file commits, modify versions, etc.
+# Day-7, 8: Codechef DSA problems - Arrays (in Java) 
