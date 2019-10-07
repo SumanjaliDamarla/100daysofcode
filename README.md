@@ -1,4 +1,4 @@
-# Day-0 : CodeChef DSA problems - Arrays (in Java and Python)
+# Day-1 : CodeChef DSA problems - Arrays (in Java and Python)
 * [LECANDY](https://www.codechef.com/problems/LECANDY): Little Elephant and Candies
   * Started using terminal for git and vim editor
   * Basics brushed up
