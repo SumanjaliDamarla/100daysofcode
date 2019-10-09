@@ -17,4 +17,4 @@
   * to write code according to the language and make it readable
 # Day-5, 6:
   * Lot of struggle with git and linux terminal to undo file commits, modify versions, etc.
-# Day-7, 8: Codechef DSA problems - Arrays (in Java) 
+# Day-7, 8, 9: Codechef DSA problems - Arrays (in Java) 
