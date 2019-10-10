@@ -3,6 +3,8 @@ class Cops {
 	int numOfCops;
 	int dist;
 	public final int HOUSES = 100;
+	public final boolean SAFE = true;
+	public final boolean UNSAFE = false;
 	Cops() {
 	}
 	public void setValues(int numOfCops, int speed, int time) {
@@ -10,15 +12,19 @@ class Cops {
 		this.dist = speed * time;
 	}
 	public int getSafeCount(int[] cops) {
-		boolean[] safeHouses = new boolean[HOUSES];
+		boolean[] house = new boolean[HOUSES];
 		int safeCount = HOUSES;
 		for(int i = 0; i < HOUSES; i++) {
-			safeHouses[i] = true;
+			house[i] = SAFE;
 		}
 		for(int i = 0; i < numOfCops; i++) {
-			for(int j = cops[i] - dist; j <= cops[i] + dist; j++) {
-				if(safeHouses[j])	safeCount--;
-				safeHouses[j] = false;
+			int lSafe = cops[i] - dist - 1;
+			int rSafe = cops[i] + dist - 1;
+			if(lSafe < 0)	lSafe = 0;
+			if(rSafe >= HOUSES)	rSafe = HOUSES - 1;
+			for(int j = lSafe; j <= rSafe; j++) {
+				if(house[j])	safeCount--;
+				house[j] = UNSAFE;
 			}
 		}
 		return safeCount;
