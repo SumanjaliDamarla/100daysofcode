@@ -17,4 +17,6 @@
   * to write code according to the language and make it readable
 # Day-5, 6:
   * Lot of struggle with git and linux terminal to undo file commits, modify versions, etc.
-# Day-7, 8, 9: Codechef DSA problems - Arrays (in Java) 
+# Day-7, 8, 9: QwikLabs GCP essentials, Exploring Dart for Flutter, Arrays -Java
+  * [GCP Essentials](https://www.qwiklabs.com/public_profiles/c77fb311-e6c4-4e4f-8715-2d0673370e85)
+# Day-10, 11: Codechef DSA problems - Arrays (in Java) 
