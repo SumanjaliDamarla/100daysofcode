@@ -24,3 +24,9 @@
 # Day - 14: Understanding Flutter architecture 
 # Day - 15: Github Lab
 # Day - 16: Understanding Flutter Sample app (counter app)
+# Day - 17: Hacktober fest PR repository search
+  * Contributed to dot net documentation
+  * Found issues which can be contributed to
+# Day - 18: GitHub learning Labs
+  * Merging issues
+  * Getting started with GitHub apps
