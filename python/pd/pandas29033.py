@@ -1,23 +1,25 @@
 import pandas as pd
+def printFormat(s):
+    print("------------------------------------------")
+    print(s)
+    print("------------------------------------------")
+
 df = pd.DataFrame({
     'id':[1,2,2],
-    'cost':[5,5,5],
+    'cost':[4,5,3],
     'letters':[['a','b'],['a','b'],['a','b']]
 })
+printFormat("df")
 print(df)
-print("------------------------------------------")
-print("df.sum()")
-print("------------------------------------------")
+printFormat("df.sum()")
 print(df.sum())
-print("------------------------------------------")
-print("df.groupby('id')")
-print("------------------------------------------")
+printFormat("df.groupby('id')")
 print(df.groupby('id'))
-print("------------------------------------------")
-print("df.groupby('id').agg('sum')")
-print("------------------------------------------")
+printFormat("df.groupby('id').agg('sum')")
 print(df.groupby('id').agg('sum'))
-print("------------------------------------------")
-print("df.groupby('id').agg(pd.Series.sum)")
-print("------------------------------------------")
+printFormat("df.groupby('id').agg(pd.Series.sum)")
 print(df.groupby('id').agg(pd.Series.sum))
+printFormat("df.set_index('cost')")
+print(df.set_index('cost'))
+printFormat("df.set_index('cost').reset_index(level = 0, drop = False)")
+print(df.set_index('cost').reset_index(level=0, drop=False))
