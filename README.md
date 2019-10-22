@@ -30,3 +30,6 @@
 # Day - 18: GitHub learning Labs
   * Merging issues
   * Getting started with GitHub apps
+# Day - 19: Shell programs and exploring issues in Pandas
+# Day - 20: GitHub Learning Labs
+# Day - 21: Dart for Flutter
