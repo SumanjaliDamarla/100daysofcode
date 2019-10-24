@@ -33,3 +33,8 @@
 ## Day - 19: Shell programs and exploring issues in Pandas
 ## Day - 20: GitHub Learning Labs
 ## Day - 21: Dart for Flutter
+## Day - 22: Source code for Flutter Apps
+  * Understood the design in source code, seeing other flutter apps
+## Day - 23: Mobile Application Architecture Study
+  * Read Design docs for the CALCULATOR app on Windows
+## Day - 24: 
