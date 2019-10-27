@@ -37,4 +37,5 @@
   * Understood the design in source code, seeing other flutter apps
 ## Day - 23: Mobile Application Architecture Study
   * Read Design docs for the CALCULATOR app on Windows
-## Day - 24: 
+## Day - 24, 25: Travis CI Documentation
+## Day - 26, 27: Flutter application, Anaconda, Hacktoberfest issues - dotnet docs, pandas
