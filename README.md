@@ -39,3 +39,6 @@
   * Read Design docs for the CALCULATOR app on Windows
 ## Day - 24, 25: Travis CI Documentation
 ## Day - 26, 27: Flutter application, Anaconda, Hacktoberfest issues - dotnet docs, pandas
+## Day - 28, 29: Dot net samples
+## Day - 30, 31: Flutter applications, ML packages
+## Day - 32, 33: GitHub application setup for development, pandas issue
