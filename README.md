@@ -42,3 +42,4 @@
 ## Day - 28, 29: Dot net samples
 ## Day - 30, 31: Flutter applications, ML packages
 ## Day - 32, 33, 34: GitHub application setup for development, pandas issue, QwikLabs
+## Day - 35 to 38: Qwiklabs labs study, Google Assistant actions basic idea, Microsoft STL first PR
