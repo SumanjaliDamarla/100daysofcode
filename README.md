@@ -43,3 +43,10 @@
 ## Day - 30, 31: Flutter applications, ML packages
 ## Day - 32, 33, 34: GitHub application setup for development, pandas issue, QwikLabs
 ## Day - 35 to 38: Qwiklabs labs study, Google Assistant actions basic idea, Microsoft STL first PR
+## Day - 38 to 41: Project related work
+  * Google Auto content generator study
+  * API usage study
+  * Flutter app 
+  * GCP
+  * ML for Summarization
+  * GitHub pages and OpenSource
