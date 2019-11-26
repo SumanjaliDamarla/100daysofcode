@@ -51,3 +51,5 @@
   * ML for Summarization
   * GitHub pages and OpenSource
   * Documentation
+## Day 42 to 60: Salt Documentation, Projects UI ideas, exams
+  * checking other 100daysofcode projects to get idea on web dev, css icons and javascript development, themes, jpeg, png images, etc.
