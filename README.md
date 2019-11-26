@@ -54,3 +54,4 @@
 ## Day - 42 to 60: Salt documentation, Project UI ideas, exams
   * Referring to new issues in various opensource libraries
   * Referred other 100daysofcode repositories related to webdev, CSS icon development, jpeg, png images, ui development, etc.
+  * gpg keys for signing
